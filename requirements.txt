@@ -1,4 +1,3 @@
 pdfplumber
 pandas
-re
 streamlit
